@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Hackhathon-Dec-2021
+The web app created by me and my team using React during a 12 hour Ulster Computing Society hackathon, it allows users to add tech talks and then view the tech talks by the month. It also allowed users to register attendance for tech talks and see who else will be attending.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
